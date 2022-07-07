@@ -1,4 +1,4 @@
-![](https://i.ibb.co/Q6ZL3Kc/Blue-Yellow-Modern-Creative-Entrepreneur-Linked-In-Banner-1.png)
+![](https://res.cloudinary.com/makotoevo/image/upload/v1657162189/Blue_Yellow_Modern_Creative_Entrepreneur_LinkedIn_Banner_2_aithqu.png)
 
 
 
