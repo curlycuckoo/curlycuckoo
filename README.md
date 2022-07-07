@@ -1,4 +1,4 @@
-<!--![](https://res.cloudinary.com/makotoevo/image/upload/v1655693196/rsz_matt_blasa_xguapv.png)-->
+![](https://i.ibb.co/Q6ZL3Kc/Blue-Yellow-Modern-Creative-Entrepreneur-Linked-In-Banner-1.png)
 
 
 
