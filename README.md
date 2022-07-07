@@ -34,8 +34,8 @@
 ### 🛠 &nbsp; Statistics
 <p align="center">
 <a href="https://github.com/mattblasa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mattblasa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mattblasa&layout=compact&langs_count=10&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=curlycuckoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=curlycuckoo&layout=compact&langs_count=10&theme=algolia"/>
 </a>
 </p>
 
