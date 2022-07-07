@@ -50,7 +50,7 @@
 -->
 
 ### 🤝🏻 &nbsp;Connect with Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mblasa/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/du-juan/)
 ![Gmail](https://img.shields.io/badge/du_emma@yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ### 🎓 Portfolio Links
