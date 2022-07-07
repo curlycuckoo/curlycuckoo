@@ -7,7 +7,11 @@
 
 ## :dragon: &nbsp; About Me
 
+<!--
+
 ![](https://i.ibb.co/SmZndh7/Untitled-design-2.png)
+
+-->
 
 <!--
 💡 &nbsp;I like to find different and innovative ways of analyzing, processing, and finding insights from data. \
